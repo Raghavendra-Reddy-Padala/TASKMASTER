@@ -22,15 +22,12 @@ A simple and intuitive Flutter application to manage your daily tasks efficientl
 
 ## 📸 App Preview
 
-| Home Screen | Add Task Screen | Edit Task Screen | Delete Task Screen|
-|-------------|-----------------|------------------|-------------------|
-| ![Home Screen](assets/home_page.png) |
- ![Add Task Screen](assets/add_task.png) | 
- ![Edit Task Screen](assets/edit_task.png) |
- ![Delete Task Screen](assets/delete_task.png) |
-
+| Home Screen         | Add Task Screen     | Edit Task Screen     | Delete Task Screen     |
+|---------------------|---------------------|----------------------|------------------------|
+| ![Home Screen](assets/home_page.png) | ![Add Task Screen](assets/add_task.png) | ![Edit Task Screen](assets/edit_task.png) | ![Delete Task Screen](assets/del_task.png) |
 
 ---
+
 
 ## 🚀 Getting Started
 
